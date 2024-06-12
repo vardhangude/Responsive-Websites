@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-all {
+    background-color: #19232d;
+    height: 100%;
+}
+
+.img-1 {
+    height: 40px;
+}
+
+.bg-pic {
+    background-color: #202b36;
+    height: 40px;
+    width: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+    border-radius: 40px;
+    color: #5a7184;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+
+.txt {
+    color: #5a7184;
+}
+
+.head-txt {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.body-txt {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.body-txt1 {
+    font-size: 14px;
+}
+
+.last {
+    color: #959ead;
+}
