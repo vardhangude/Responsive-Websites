@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg {
+    background-color: #191a1d;
+    height: 100%;
+}
+
+.jenny {
+    color: #4b6cc1;
+}
+
+.nav-bg {
+    background-color: #9aa5b1;
+}
+
+.box {
+    border-color: #4b6cc1;
+    border-style: solid;
+    padding-left: 15px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#nav1 {
+    color: white;
+}
+
+#nav2 {
+    color: white;
+}
+
+#nav3 {
+    color: white;
+}
+
+#nav4 {
+    color: white;
+}
+
+.img {
+    padding-top: 100px;
+}
+
+.h1 {
+    color: white;
+    font-size: 40px;
+    font-family: "Roboto";
+}
+
+.h2 {
+    color: #9aa5b1;
+    font-size: 28px;
+    font-family: "Roboto";
+}
+
+.but {
+    background-color: #4b6cc1;
+    color: white;
+    border-style: none;
+    border-radius: 6px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
