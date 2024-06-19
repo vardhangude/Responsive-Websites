@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    height: 100vh;
+}
+
+.bg1 {
+    background-color: black;
+}
+
+.navbar-toggler {
+    background-color: black;
+    filter: invert(100%);
+}
+
+.img1 {
+    width: 120px;
+}
+
+.nav-link {
+    margin-left: 40px;
+    color: white;
+}
+
+#clr {
+    color: white;
+}
+
+.h {
+    font-family: "Roboto";
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.ylw {
+    color: #FFDDA9;
+}
+
+.but {
+    background-color: #FFDDA9;
+    color: #0C0521;
+    font-weight: bold;
+    font-family: "Roboto";
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+}
